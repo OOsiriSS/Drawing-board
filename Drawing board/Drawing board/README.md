@@ -1,0 +1,1 @@
+A drawing board on which one can draw freely. The painted content can be identified after drawing (Java).
